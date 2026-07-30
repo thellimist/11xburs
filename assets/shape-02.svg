@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Açık geçit</title>
+  <desc id="desc">Siyah çizgilerden oluşan bir çemberin içindeki tek kobalt çizgi.</desc>
+  <rect width="1200" height="900" fill="oklch(0.965 0.008 230)"/>
+  <defs>
+    <clipPath id="ring">
+      <path d="M600 112A338 338 0 1 1 599.9 112M600 302A148 148 0 1 0 600.1 302" fill-rule="evenodd"/>
+    </clipPath>
+    <pattern id="stripes" x="130" width="26" height="900" patternUnits="userSpaceOnUse">
+      <rect width="11" height="900" fill="oklch(0.16 0.015 230)"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#ring)" transform="rotate(28 600 450)">
+    <rect x="130" y="70" width="973" height="760" fill="url(#stripes)"/>
+    <line x1="780" y1="70" x2="780" y2="830" stroke="oklch(0.52 0.19 230)" stroke-width="18"/>
+  </g>
+  <circle cx="600" cy="450" r="148" fill="oklch(0.965 0.008 230)"/>
+</svg>
