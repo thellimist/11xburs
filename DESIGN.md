@@ -23,27 +23,34 @@ Color strategy: restrained on content surfaces, committed cobalt in the communit
 
 ## Typography
 
-Figtree variable sans. Voice: sharp, kinetic, candid. Large headings use 650–700 weight and tight but safe tracking; body copy uses 400–500 weight, 1.6 line-height and a maximum measure around 68 characters.
+Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with relaxed GetDX-inspired metrics: 56px/1.2 for the desktop hero, 48px/1.3 for desktop section titles, and 32px/1.4 or 28px/1.4 on mobile. Body copy uses 400–500 weight, with 1.5 compact UI rhythm and 1.625 for long prose.
 
 ## Layout
 
-- Content container: 1180px maximum, 24px mobile gutters.
-- Hero: centered, with Shape 02 above the heading.
+- Content container: 1120px outer maximum with fixed 24px gutters.
+- Hero: left-aligned below 640px and centered above, with a transparent Shape 02 above the heading.
 - Long sections: ruled two-column compositions rather than repeated card grids.
-- Section spacing: fluid 80–144px.
-- Breakpoint: main two-column layouts collapse around 760px.
+- Section spacing: 72px mobile and 96px desktop.
+- Breakpoint: main two-column layouts collapse around 768px.
 
 ## Components
 
-- Announcement bar: low-height cobalt-tinted status message.
-- Header: wordmark, anchor navigation, black application button.
-- Buttons: 4px radius, 44px minimum height, black primary and bordered secondary.
+- Announcement bar: low-height solid cobalt status message.
+- Header: supplied 11X vector mark, anchor navigation, black application button.
+- Buttons: pill geometry, 46–48px minimum height, black primary and bordered secondary.
 - Data strip: three plain facts separated by rules.
 - Support rows: label, title and explanation in an asymmetric ruled list.
-- Mentor profiles: editorial split with verified external links.
+- Mentor profiles: circular portraits, editorial split and bottom-aligned external links.
 - FAQ: native `details`/`summary`.
-- Application: embedded Google Form plus external-open fallback.
+- Testimonial: mentor quote placed directly below the FAQ as a centered, ruled statement.
+- Application: one primary external link to the Google Form; no embedded form.
+
+## Content
+
+All visitor-facing Turkish copy follows `docs/content-style/content-style.md`.
+Correct Turkish characters, natural sentence structure and consistent
+terminology are required for every content change.
 
 ## Motion
 
-One short hero arrival using transform, blur and opacity; subtle Shape 02 hover rotation. All motion disabled or simplified under `prefers-reduced-motion`.
+One short hero arrival using transform and scale. All motion disabled or simplified under `prefers-reduced-motion`.

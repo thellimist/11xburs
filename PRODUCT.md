@@ -10,7 +10,7 @@ Türkiye'de veya yurt dışında yaşayan, kendi isteğiyle proje üretmiş, 15�
 
 ## Product Purpose
 
-11x Girişimci Genç Bursu'nun vizyonunu, destek modelini, seçim kriterlerini ve program sorumluluklarını açıkça anlatmak; güçlü adayları 2026–2027 Google başvuru formuna yönlendirmek.
+11x Genç Girişimci Bursu'nun vizyonunu, destek modelini, seçim kriterlerini ve program sorumluluklarını açıkça anlatmak; güçlü adayları 2026–2027 Google başvuru formuna yönlendirmek.
 
 ## Brand Personality
 
@@ -18,7 +18,7 @@ Türkiye'de veya yurt dışında yaşayan, kendi isteğiyle proje üretmiş, 15�
 
 ## Anti-references
 
-Geleneksel vakıf sitesi, okul broşürü, yapay başarı vaatleri, stok mezuniyet fotoğrafları, kripto/AI landing page klişeleri, yoğun kart ızgaraları ve aşırı kurumsal dil. getdx.com'un net hiyerarşisi ve geometrik hero yaklaşımı referans; birebir kopya değil.
+Geleneksel vakıf sitesi, okul broşürü, yapay başarı vaatleri, stok mezuniyet fotoğrafları, kripto ve yapay zekâ tanıtım sayfası klişeleri, yoğun kart ızgaraları ve aşırı kurumsal dil. getdx.com'un net hiyerarşisi ve geometrik ana bölüm yaklaşımı referans; birebir kopya değil.
 
 ## Design Principles
 

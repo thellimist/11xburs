@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="283 109 861 606"
+     width="861"
+     height="606"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">11X logo</title>
+  <desc id="desc">Clean vector version of the supplied black 11X mark.</desc>
+  <path fill="#000000"
+        shape-rendering="geometricPrecision"
+        d="
+          M388 198 L283 258 L283 715 L388 715 Z
+
+          M546 109 L441 171 L441 715 L547 715 Z
+
+          M546 109 L728 109
+          C763.835 154.674 836.509 195.434 825 256
+          L736 379 Z
+
+          M979 109 L1144 109 L716 715 L547 715 Z
+
+          M943 464 L868 570
+          C863.102 578.734 863.476 589.605 869 598
+          L954 715 L1119 715 Z
+        "/>
+</svg>
