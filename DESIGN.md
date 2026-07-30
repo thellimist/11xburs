@@ -6,7 +6,7 @@ Gece geç saatte bir üniversite proje odası: beyaz tahta, sert ışık, yoğun
 
 ## Visual Direction
 
-getdx.com'dan alınan ilkeler: sakin üst navigasyon, geniş beyaz alan, merkezlenmiş geometrik hero görseli, büyük sans başlık, kısa açıklama ve tek güçlü CTA. 11x'e özgü imza, Shape 02'nin “kalabalık içinde tek çizgi” metaforu ve daha doğrudan Türkçe sesidir.
+Sakin üst navigasyon, geniş beyaz alan, merkezlenmiş geometrik ana bölüm görseli, büyük sans başlık, kısa açıklama ve tek güçlü CTA. 11x'in görsel imzası, Shape 02'nin “kalabalık içinde tek çizgi” metaforu ve doğrudan Türkçe sesidir.
 
 ## Color
 
@@ -23,7 +23,7 @@ Color strategy: restrained on content surfaces, committed cobalt in the communit
 
 ## Typography
 
-Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with relaxed GetDX-inspired metrics: 56px/1.2 for the desktop hero, 48px/1.3 for desktop section titles, and 32px/1.4 or 28px/1.4 on mobile. Body copy uses 400–500 weight, with 1.5 compact UI rhythm and 1.625 for long prose.
+Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with relaxed metrics: 56px/1.2 for the desktop hero, 48px/1.3 for desktop section titles, and 32px/1.4 or 28px/1.4 on mobile. Body copy uses 400–500 weight, with 1.5 compact UI rhythm and 1.625 for long prose.
 
 ## Layout
 

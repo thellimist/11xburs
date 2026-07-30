@@ -18,7 +18,7 @@ Türkiye'de veya yurt dışında yaşayan, kendi isteğiyle proje üretmiş, 15�
 
 ## Anti-references
 
-Geleneksel vakıf sitesi, okul broşürü, yapay başarı vaatleri, stok mezuniyet fotoğrafları, kripto ve yapay zekâ tanıtım sayfası klişeleri, yoğun kart ızgaraları ve aşırı kurumsal dil. getdx.com'un net hiyerarşisi ve geometrik ana bölüm yaklaşımı referans; birebir kopya değil.
+Geleneksel vakıf sitesi, okul broşürü, yapay başarı vaatleri, stok mezuniyet fotoğrafları, kripto ve yapay zekâ tanıtım sayfası klişeleri, yoğun kart ızgaraları ve aşırı kurumsal dil.
 
 ## Design Principles
 
