@@ -28,10 +28,12 @@ Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with
 ## Layout
 
 - Content container: 1120px outer maximum with fixed 24px gutters.
-- Hero: left-aligned below 640px and centered above, with a transparent Shape 02 above the heading.
+- Hero: centered at every viewport size, with a transparent Shape 02 above the heading.
 - Long sections: ruled two-column compositions rather than repeated card grids.
 - Section spacing: 72px mobile and 96px desktop.
 - Breakpoint: main two-column layouts collapse around 768px.
+- Mobile header: sticky, 60px tall and paired with a compact 44px application CTA.
+- Mobile gutters respect device safe areas; primary touch targets are at least 44px.
 
 ## Components
 
