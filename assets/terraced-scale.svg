@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Basamaklı ölçek</title>
+  <desc id="desc">Koyu renkli basamakların arasında tek bir kobalt basamak.</desc>
+  <rect width="1200" height="900" fill="#FFFFFF"/>
+  <g fill="none" stroke="#070F12" stroke-width="18">
+    <path d="M100 760H1100V810"/>
+    <path d="M138 704H1062V754"/>
+    <path d="M176 648H1024V698"/>
+    <path d="M214 592H986V642"/>
+    <path d="M252 536H948V586"/>
+    <path d="M290 480H910V530"/>
+    <path d="M328 424H872V474"/>
+    <path d="M404 312H796V362"/>
+    <path d="M442 256H758V306"/>
+    <path d="M480 200H720V250"/>
+  </g>
+  <path d="M366 368H834V418" fill="none" stroke="#0076BF" stroke-width="18"/>
+</svg>

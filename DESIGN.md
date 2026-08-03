@@ -49,6 +49,8 @@ Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with
   çizgilerle ayrılmış iki sütunlu düzen.
 - Mezun listesi: fotoğraf, kısa biyografi ve seçilmiş alıntıları bir araya getiren
   native `details`/`summary` akordeonu.
+- Mezunlar sayfası ana görseli: 11x beyazı, koyu mürekkebi ve kobaltıyla
+  uyarlanmış `Terraced Scale` geometrisi.
 - Application: one primary external link to the Google Form; no embedded form.
 
 ## Content
