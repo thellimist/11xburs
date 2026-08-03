@@ -453,15 +453,6 @@ a {
   content: "→";
 }
 
-.community__link {
-  display: inline-flex;
-  min-height: 2.75rem;
-  align-items: center;
-  margin-top: 1.5rem;
-  font-weight: 600;
-  text-underline-offset: 0.22em;
-}
-
 .section-heading--compact {
   grid-template-columns: 1fr;
   max-width: 42rem;
