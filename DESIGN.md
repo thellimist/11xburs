@@ -46,9 +46,12 @@ Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with
 - FAQ: native `details`/`summary`.
 - Mentor alıntısı: FAQ altında ortalanmış, çizgilerle ayrılmış kısa açıklama.
 - Ana sayfa mezun alıntıları: büyük alıntı ve kısa mezun biyografisini birleştiren,
-  çizgilerle ayrılmış iki sütunlu düzen.
+  çizgilerle ayrılmış iki sütunlu düzen; kişi bazlı bağlantılar yerine listenin
+  altında mezunlar sayfasına giden tek bir ikincil CTA kullanılır.
 - Mezun listesi: fotoğraf, kısa biyografi ve seçilmiş alıntıları bir araya getiren
-  native `details`/`summary` akordeonu.
+  native `details`/`summary` akordeonu. Yaş bilgisi adın yanında kompakt bir
+  kobalt badge’le gösterilir. LinkedIn profilleri bunun yanında muted bir “in”
+  monogramı olarak yer alır ve yalnızca etkileşimde kobalta döner.
 - Mezunlar sayfası ana görseli: 11x beyazı, koyu mürekkebi ve kobaltıyla
   uyarlanmış `Terraced Scale` geometrisi.
 - Application: one primary external link to the Google Form; no embedded form.
