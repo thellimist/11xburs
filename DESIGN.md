@@ -44,6 +44,7 @@ Hanken Grotesk sans. Voice: sharp, kinetic, candid. Headings use 500 weight with
 - Support rows: label, title and explanation in an asymmetric ruled list.
 - Mentor profiles: circular portraits, editorial split and bottom-aligned external links.
 - FAQ: native `details`/`summary`.
+- Mentor alıntısı: FAQ altında ortalanmış, çizgilerle ayrılmış kısa açıklama.
 - Ana sayfa mezun alıntıları: büyük alıntı ve kısa mezun biyografisini birleştiren,
   çizgilerle ayrılmış iki sütunlu düzen.
 - Mezun listesi: fotoğraf, kısa biyografi ve seçilmiş alıntıları bir araya getiren

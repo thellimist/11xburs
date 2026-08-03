@@ -24,5 +24,8 @@ dosyası özel alan adını `11xburs.com` olarak ayarlar.
 - Ana sayfa mezun alıntıları: `index.html` içindeki `.alumni-voices` bölümü.
 - Mezun profilleri ve alıntıları: `mezunlar.html`.
 - Kaan Civan'ın fotoğrafı: `assets/kaan-civan.webp`.
+- CSS değişikliklerinden sonra `index.html` ve `mezunlar.html` içindeki
+  `styles.css?v=...` sürümünü birlikte artırın; CDN önbelleği dört saate kadar
+  eski dosyayı sunabilir.
 - Yeni başarı hikâyeleri yalnızca bursiyer onayı ve nihai metin geldikten sonra
   eklenmelidir.

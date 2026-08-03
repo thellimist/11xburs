@@ -632,6 +632,29 @@ a {
   line-height: 1.625;
 }
 
+.mentor-testimonial {
+  max-width: 52rem;
+  margin-top: 6rem;
+  text-align: center;
+}
+
+.mentor-testimonial blockquote {
+  border-block: 1px solid var(--color-line);
+  padding: 3rem 1rem;
+  color: var(--color-ink);
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+
+.mentor-testimonial figcaption {
+  margin-top: 1rem;
+  color: var(--color-muted);
+  font-size: 0.875rem;
+}
+
 .alumni-voices {
   background: var(--color-surface);
 }
@@ -1047,6 +1070,15 @@ a {
     display: inline-flex;
     min-height: 2.75rem;
     align-items: center;
+  }
+
+  .mentor-testimonial {
+    margin-top: 4.5rem;
+  }
+
+  .mentor-testimonial blockquote {
+    padding: 2rem 0;
+    font-size: 1.35rem;
   }
 
   .alumni-page-hero {
