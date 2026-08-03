@@ -1,6 +1,6 @@
 # 11x Genç Girişimci Bursu
 
-11xburs.com için bağımlılıksız, tek sayfalık statik site.
+11xburs.com için bağımlılıksız statik site.
 
 ## Yerelde çalıştırma
 
@@ -21,4 +21,8 @@ dosyası özel alan adını `11xburs.com` olarak ayarlar.
 - Yıl ve program tarihleri: duyuru bandı, ana bölüm ve başvuru bölümü.
 - Maddi destek modeli: `#destek` bölümü.
 - Mentor fotoğrafları: `assets/demi-yilmaz.webp` ve `assets/kan-yilmaz.webp`.
-- Gelecek başarı hikâyeleri: bursiyer onayı ve nihai metin geldikten sonra eklenmeli.
+- Ana sayfa mezun alıntıları: `index.html` içindeki `.alumni-voices` bölümü.
+- Mezun profilleri ve alıntıları: `mezunlar.html`.
+- Kaan Civan'ın fotoğrafı: `assets/kaan-civan.webp`.
+- Yeni başarı hikâyeleri yalnızca bursiyer onayı ve nihai metin geldikten sonra
+  eklenmelidir.
