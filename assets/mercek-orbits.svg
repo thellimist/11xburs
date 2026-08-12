@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc" data-source-geometry="shape-16.svg">
+  <title id="title">Yörünge bantları</title>
+  <desc id="desc">Birbirine yaklaşan koyu halkaların arasında tek bir kobalt halka.</desc>
+  <g fill="none" stroke="#070F12" stroke-width="8">
+    <ellipse cx="600" cy="450" rx="190" ry="90" transform="rotate(-28 600 450)"/>
+    <ellipse cx="600" cy="450" rx="238" ry="126" transform="rotate(-20 600 450)"/>
+    <ellipse cx="600" cy="450" rx="286" ry="162" transform="rotate(-12 600 450)"/>
+    <ellipse cx="600" cy="450" rx="334" ry="198" transform="rotate(-4 600 450)"/>
+    <ellipse cx="600" cy="450" rx="430" ry="270" transform="rotate(12 600 450)"/>
+    <ellipse cx="600" cy="450" rx="478" ry="306" transform="rotate(20 600 450)"/>
+    <ellipse cx="600" cy="450" rx="526" ry="342" transform="rotate(28 600 450)"/>
+  </g>
+  <ellipse cx="600" cy="450" rx="382" ry="234" fill="none" stroke="#0076BF" stroke-width="18" transform="rotate(4 600 450)"/>
+</svg>
