@@ -27,7 +27,7 @@
       href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&amp;display=swap"
       rel="stylesheet"
     >
-    <link rel="stylesheet" href="styles.css?v=20260810.1">
+    <link rel="stylesheet" href="styles.css?v=20260812.8">
   </head>
   <body>
     <a class="skip-link" href="#icerik">İçeriğe geç</a>
@@ -51,22 +51,19 @@
 
     <header class="site-header">
       <nav class="container nav" aria-label="Ana navigasyon">
-        <a class="wordmark" href="index.html" aria-label="11x ana sayfa">
+        <a class="wordmark" href="/" aria-label="11x ana sayfa">
           <img
             class="wordmark__logo"
-            src="assets/11x-logo.svg"
+            src="/assets/11x-logo.svg"
             alt=""
             width="861"
             height="606"
           >
         </a>
         <div class="nav__links">
-          <a href="#destek">Program</a>
-          <a href="#destek">Destek</a>
-          <a href="#mentorlar">Mentorlar</a>
-          <a href="mezunlar.html">Mezunlar</a>
-          <a href="mercek/">Mercek</a>
-          <a href="#sorular">Sorular</a>
+          <a href="/" aria-current="page">Burs</a>
+          <a href="/mezunlar/">Mezunlar</a>
+          <a href="/mercek/">Mercek</a>
         </div>
         <a
           class="button button--small button--dark"
@@ -246,7 +243,7 @@
           </article>
 
           <div class="alumni-voices__footer">
-            <a class="button button--outline" href="mezunlar.html">
+            <a class="button button--outline" href="mezunlar/">
               Tüm mezun deneyimlerini oku
             </a>
           </div>
@@ -432,22 +429,12 @@
             </details>
           </div>
         </div>
-        <figure class="container mentor-testimonial">
-          <blockquote>
-            “Biz genç yaşta kendi yolumuzu çizdik. Şimdi, aynı ruhu taşıyanlara
-            ışık olmak istiyoruz.”
-          </blockquote>
-          <figcaption>Kan Yılmaz · 11x mentoru</figcaption>
-        </figure>
       </section>
 
       <section class="section application" id="basvuru">
-        <div class="container application__intro">
-          <div>
-            <p class="application__status">Hedeflerin için gerçek destek</p>
+        <div class="container">
+          <div class="application__intro">
             <h2>Para, mentorluk ve doğru insanlarla tanışma imkânı.</h2>
-          </div>
-          <div>
             <a
               class="button button--light"
               href="https://forms.gle/wE8u88QNbs6UGq2R9"
@@ -462,33 +449,44 @@
     </main>
 
     <footer class="footer">
-      <div class="container footer__inner">
-        <a
-          class="wordmark wordmark--footer"
-          href="index.html"
-          aria-label="11x ana sayfa"
-        >
-          <img
-            class="wordmark__logo"
-            src="assets/11x-logo.svg"
-            alt=""
-            width="861"
-            height="606"
-          >
-        </a>
-        <p>Genç yaşta kendi yolunu çizenlere hız kazandırıyoruz.</p>
-        <div class="footer__links">
-          <a href="#destek">Program</a>
-          <a href="#mentorlar">Mentorlar</a>
-          <a href="mezunlar.html">Mezunlar</a>
-          <a href="mercek/">Mercek</a>
+      <div class="container">
+        <div class="footer__row">
           <a
-            href="https://forms.gle/wE8u88QNbs6UGq2R9"
-            target="_blank"
-            rel="noopener noreferrer"
+            class="wordmark wordmark--footer"
+            href="/"
+            aria-label="11x ana sayfa"
           >
-            Başvur
+            <img
+              class="wordmark__logo"
+              src="/assets/11x-logo.svg"
+              alt=""
+              width="861"
+              height="606"
+            >
           </a>
+          <ul class="footer__nav">
+            <li><a href="/" aria-current="page">Burs</a></li>
+            <li><a href="/mezunlar/">Mezunlar</a></li>
+            <li><a href="/mercek/">Mercek</a></li>
+            <li>
+              <a
+                href="https://forms.gle/wE8u88QNbs6UGq2R9"
+                target="_blank"
+                rel="noopener noreferrer"
+              >Başvur</a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer__meta">
+          <span>© 2026 11x</span>
+          <p>
+            <a
+              href="https://canerel.com.tr/basari-bursu"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Can Erel &amp; CAN'CA Başarı Bursu</a>
+            katkılarıyla.
+          </p>
         </div>
       </div>
     </footer>
